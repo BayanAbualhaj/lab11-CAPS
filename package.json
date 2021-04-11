@@ -1,0 +1,25 @@
+{
+  "name": "lab11-CAPS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caps.js",
+  "scripts": {
+    "start": "node caps.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BayanAbualhaj/lab11-CAPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BayanAbualhaj/lab11-CAPS/issues"
+  },
+  "homepage": "https://github.com/BayanAbualhaj/lab11-CAPS#readme",
+  "dependencies": {
+    "events": "^3.3.0",
+    "faker": "^5.5.3"
+  }
+}
